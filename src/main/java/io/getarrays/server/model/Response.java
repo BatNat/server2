@@ -17,6 +17,7 @@ public class Response {
     protected HttpStatus status;
     protected String response;
     protected String message;
+
     protected String developerMessage;
     protected Map<?, ?> data;
 }
